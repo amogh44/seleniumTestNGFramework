@@ -9,7 +9,7 @@ public class loginPOM {
 
 	public WebDriver driver;
 
-	private By email=By.xpath("//inpu[@id='Email']");
+	private By email=By.xpath("//input[@id='Email']");
 
 	private By password=By.xpath("//input[@id='Password']");
 
